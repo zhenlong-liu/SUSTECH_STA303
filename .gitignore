@@ -162,4 +162,3 @@ cython_debug/
 mnist
 history*
 test
-*ipynb
